@@ -1,5 +1,5 @@
 package oops;
-
+//Student class  for print name and age of student
 class student {
 	int i;
 	String name;
