@@ -16,6 +16,7 @@ class student {
 
 public class para {
 	public static void main(String args[]) {
+		//Student class
 		student s = new student(23, "Ankit");
 		s.display();
 	}
